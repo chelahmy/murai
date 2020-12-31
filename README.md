@@ -6,4 +6,4 @@ MURAI is a programming language based on [Malay](https://en.wikipedia.org/wiki/M
 This repository is purposely written in English so that English-*thinking* programmers can participate in developing MURAI because we have yet to evolve Malay-*thinking* programmers. In fact, MURAI development is strictly encoded, commented and documented in English.
 
 ## The Language Construct
-MURAI is a dialect of [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language)) with [C structure](https://en.wikipedia.org/wiki/Struct_(C_programming_language)). It looks like a C language embedded in Lisp parentheses, and behaves like Lisp.
+MURAI is a dialect of [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language)) with [C structure](https://en.wikipedia.org/wiki/Struct_(C_programming_language)). It looks like a C language embedded in Lisp parentheses, and behaves mostly like Lisp.
