@@ -11,6 +11,6 @@ MURAI is a dialect of [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_lan
 ## Performance vs Adaptability
 Nowadays, system performance is scalable. The main challenge of a new programming language is adaptability. MURAI was designed for minimal system requirement. Most cheap or free shared web hosting services will be able to run MURAI. No dedicated server or virtual machine is required. Yes, MURAI can be used to develop web applications.
 
-Most shared web hosting services allow Apache, PHP and MySQL. They are constraints but sufficient to run web applications. Hence, MURAI was developed using PHP for merely the sake of adaptability. MURAI is an interpreted programming language that can run all PHP functions. MURAI programmer does not have to learn PHP.
+Most shared web hosting services allow Apache, PHP and MySQL. They are constraints but sufficient to run web applications. Hence, MURAI was developed using PHP for the sake of adaptability. MURAI is an interpreted programming language that can run all PHP functions. MURAI programmer does not have to learn PHP.
 
 This is not a novelty or a supremacy argument. There is no main-stream Malay programming language. In fact, there is no remotely-known Malay programming language (anyone may argue on this one). MURAI is an experiment to create a Malay programming language. All approaches must be practical and predictable from square one.
