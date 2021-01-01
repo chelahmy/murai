@@ -6,7 +6,7 @@ MURAI is a programming language based on [Malay](https://en.wikipedia.org/wiki/M
 This repository is purposely written in English so that English-*thinking* programmers can participate in developing MURAI because we have yet to evolve Malay-*thinking* programmers. In fact, MURAI development is strictly encoded, commented and documented in English.
 
 ## The Language Construct
-MURAI is a dialect of [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language)) with [C structure](https://en.wikipedia.org/wiki/Struct_(C_programming_language)). It looks like a C language embedded in Lisp parentheses, and behaves mostly like Lisp. There are only two major high-level programming language families in the world - Lisp and C. Lisp has the simplest form and notation. And C introduced structured programming. MURAI takes the advantage of both worlds.
+MURAI is a dialect of [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language)) with [C structure](https://en.wikipedia.org/wiki/Struct_(C_programming_language)). It looks like a C language embedded in Lisp parentheses, and behaves mostly like Lisp. There are only two major high-level programming language families - Lisp and C. Lisp has the simplest form and notation. And C introduced structured programming. MURAI takes the advantage of both worlds.
 
 ## Performance vs Adaptability
 Nowadays, system performance is scalable. The main challenge of a new programming language is adaptability. MURAI was designed for minimal system requirement. Most cheap or free shared web hosting services will be able to run MURAI. No dedicated server or virtual machine is required. Yes, MURAI can be used to develop web applications.
